@@ -9,7 +9,7 @@ namespace Praktikum_winform
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e) 
         { 
             //labelatas.Text = textBox1.Text;
             Username = textBox1.Text;
